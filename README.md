@@ -4,7 +4,7 @@
 
 运行：make PROJECT_PATH=<你的操作系统路径>
 
-可以使用https://gitlab.eduxiji.net/20164448/expProject22340-3133.git作为示例操作系统进行测试。
+可以使用https://gitlab.eduxiji.net/20164448/expProject22340-3133.git 作为示例操作系统进行测试。
 
 稍等片刻会自动弹出浏览器显示评测结果。
 ![](pic/pic.png)
